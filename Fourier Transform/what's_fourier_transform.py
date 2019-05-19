@@ -14,7 +14,7 @@ f1 = 0.2
 y1 = a1*np.sin(2*np.pi*f1*x)
 
 
-a2 = 10
+a2 = 12
 f2 = 0.8
 y2 = a2*np.sin(2*np.pi*f2*x)
 
