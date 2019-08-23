@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import scipy as sc
 
 
-log  = [sc.log(-i) for i in np.linspace(0,100,1000)]
+log  = [sc.log(i) for i in np.linspace(0,100,1000)]
 sine = [sc.sin(2*np.pi*0.2*i) for i in np.linspace(0,100,1000)]
 
 
@@ -15,7 +15,7 @@ fig.tight_layout() #for spacing between subplots
 plt1.plot(np.linspace(0,100,1000),log)
 plt1.set_title("Logarithmic signal")
 plt1.set_xlabel("X")
-plt1.set_ylabel("Y = log(-x)")
+plt1.set_ylabel("Y = log(X)")
 
 plt2.set_title("Sinusoidal signal")
 plt2.set_xlabel("X")
