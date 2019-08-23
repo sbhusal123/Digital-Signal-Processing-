@@ -27,7 +27,7 @@ Convolution is a term used in signal processing which simply means **coiling or 
    
 #### Example:
 
-![](https://github.com/sbhusal123/Digital-Signal-Processing-/blob/master/Figures/convolution_log_sine.png?raw=true)
+![](https://github.com/sbhusal123/Digital-Signal-Processing-/blob/master/Figures/log_sin_convoln.png?raw=true)
 
 Basically to convolve, two of the continous signal is taken in consideration logarithmic signal(plot1), sinusoidal signal(plot2). While the third plot shows the convolution obtained. 
 
