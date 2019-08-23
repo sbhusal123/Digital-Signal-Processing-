@@ -23,7 +23,7 @@ Convolution is a term used in signal processing which simply means **coiling or 
 
 1. By direct sum method.
 2. Or by using the property of fourier transform 
-   <img align="center" src="https://tex.s2cms.ru/svg/f(t)*g(t)%20%3D%20ft%5E%7B-1%7D(F(f)*G(f))%20" alt="f(t)*g(t) = ft^{-1}(F(f)*G(f)) " />
+   <img align="center" src="https://tex.s2cms.ru/svg/f(t)%5Ccircledast%20g(t)%20%3D%20%7Bf.t%7D%5E%7B-1%7D(F(f)*G(f))%20" alt="f(t)\circledast g(t) = {f.t}^{-1}(F(f)*G(f)) " />
    
 #### Example:
 
